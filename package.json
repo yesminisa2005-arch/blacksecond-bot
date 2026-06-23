@@ -1,0 +1,13 @@
+{
+  "name": "blacksecond-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot with ban, delete, games",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "pino": "^8.19.0"
+  }
+}
