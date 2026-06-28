@@ -1,2 +1,2 @@
 # blacksecond-bot
-Telegram bot built with python 
+Whatsapp bot built with Node.js +Baileys
